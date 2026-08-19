@@ -9,7 +9,7 @@
   - Gokul Yerramothu (ID: 2420090027)
   - Gokul Kavuri (ID: 2420030716)
   - Satwik Macharam (ID: 2420090078)
-- **Supervisor:** Dr.K.Swanthana - Please update
+- **Supervisor:** Dr.K.Swanthana
 
 ## Abstract
 
